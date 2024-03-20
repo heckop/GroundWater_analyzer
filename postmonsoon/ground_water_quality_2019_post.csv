@@ -1,4 +1,4 @@
-sno,district,mandal,village,lat_gis,long_gis,gwl,season,pH,EC,TDS,CO_-2 ,HCO_ - ,Cl -,F -,NO3- ,SO4-2,Na+,K+,Ca+2,Mg+2,T.H,SAR,Classification,RSC  meq  / L,Classification.1
+sno,district,mandal,village,lat_gis,long_gis,gwl,season,pH,E.C,TDS,CO3,HCO3,Cl,F,NO3 ,SO4,Na,K,Ca,Mg,T.H,SAR,Classification,RSC  meq  / L,Classification.1
 1,ADILABAD,Adilabad,Adilabad,19.6683,78.5247,6.45,post monsoon 2019,8.32,2355,1507.2,30,320,340,0.64,66.435,377,273,113,80,82.654,539.8601974,5.108508925,C4S2,-3.797203947,P.S.
 2,ADILABAD,Bazarhatnur,Bazarhatnur,19.458888,78.350833,3.85,post monsoon 2019,8.3,565,361.6,20,180,40,2.21,38.04913636,52,89,14,48,4.862,139.9917763,3.196981731,C2S1,1.200164474,P.S.
 3,ADILABAD,Gudihatnoor,Gudihatnoor,19.525555,78.512222,4.45,post monsoon 2019,8.12,766,490.24,0,190,20,0.55,41.27022727,43,39,10,40,24.31,199.9588816,1.199130423,C3S1,-0.199177632,P.S.
