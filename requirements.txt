@@ -6,3 +6,4 @@ kaggle
 geopandas
 plotly
 scikit-learn
+xgboost
